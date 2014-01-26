@@ -9,3 +9,10 @@ test:
   last_name: "Tester"
   email: "test@test.com"
   profile_name: "test"
+
+fake:
+  first_name: "fake"
+  last_name: "faker"
+  email: "fake@fake.com"
+  profile_name: "fake"
+  
