@@ -1,4 +1,6 @@
 Treebook::Application.routes.draw do
+  get "pages/testpage", as: :testpage
+
   get "profiles/show"
 
   devise_for :users
